@@ -62,7 +62,7 @@ export const availablePlugins = {
   //'syntax-flow': require('babel-plugin-syntax-flow'),
   //'syntax-function-bind': require('babel-plugin-syntax-function-bind'),
   //'syntax-jsx': require('babel-plugin-syntax-jsx'),
-  //'syntax-object-rest-spread': require('babel-plugin-syntax-object-rest-spread'),
+  'syntax-object-rest-spread': require('babel-plugin-syntax-object-rest-spread'),
   //'syntax-trailing-function-commas': require('babel-plugin-syntax-trailing-function-commas'),
   //'transform-async-functions': require('babel-plugin-transform-async-functions'),
   //'transform-async-to-generator': require('babel-plugin-transform-async-to-generator'),
